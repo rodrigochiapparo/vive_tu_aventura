@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://imagenes.elpais.com/resizer/fyJRX3Ef5I0nNTLj7Qte824o0QA=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/IYB36OP4HFMVEMQNQOFFJ3LHOE.jpg");
+}
+h1{ color:rgb(226, 36, 36);
+    position: absolute;
+    top:0px; left: 750px}
+
+p{
+        color: rgb(226, 36, 36);
+        font-size:140% ;
+        position: absolute;
+        top:100px; left: 500px;
+    }
+    #lu{
+        position: absolute;
+        top:250px; left: 750px;
+      }
+    #huir{
+        position: absolute;
+        top:250px; left: 1000px;
+      }
